@@ -7,4 +7,4 @@ Dartmouth BASIC is the original BASIC, and was widely copied across mainframe an
 
 In the original book, programs are presented in a somewhat haphazard way, in snippets intended to illustrate one feature or another. All of the source code was hand-written, not typed, which results in odd spacing and other inconsistances between the examples. These have been translated into as common a format as possible. The only changes were to add a `REM` if one did not appear in the original text, generally using line number 5, and adding the page number to that remark to make it easier to look up. Not all programs have been copied, a number were too simple to be worthwhile.
 
-There are two complete programs in the collection, `bestwayhome`, which runs the travelling salesman problem, and `roman`, which translates roman numerals into decimal. `moo` and `breakdowns` are both relatively lengthy as well.
+There are two complete programs in the collection, `bestwayhome`, which runs the shortest path problem, and `roman`, which translates roman numerals into decimal. `moo` and `breakdowns` are both relatively lengthy as well.
