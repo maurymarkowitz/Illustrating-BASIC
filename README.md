@@ -1,7 +1,7 @@
 Illustrating BASIC
 ==================
 
-*[Illustrating BASIC](https://archive.org/details/ibaspl/mode/2up)* is a 1977 primer for the BASIC programming language by Donald Alcock. It is one of the few that is written using [Dartmouth BASIC Version 4](https://en.wikipedia.org/wiki/Dartmouth_BASIC).
+*[Illustrating BASIC](https://archive.org/details/ibaspl/mode/2up)* is a 1977 primer for the BASIC programming language written by Donald Alcock. It is one of the few books of the sort that is based on [Dartmouth BASIC Version 4](https://en.wikipedia.org/wiki/Dartmouth_BASIC).
 
 Dartmouth BASIC is the original BASIC, and was widely copied across mainframe and minicomputer platforms in the 1960s and early 1970s. These were almost always based on the early versions of the original Dartmouth dialect. Starting with Verson 4 in 1968, Dartmouth added a number of powerful features. While these features were often found on other mainframe versions, they were rarely seen on minis and the microcomputer versions that copied them. For this reason, it is difficult to find examples of code that use the more interesting features that were added in V4, like matrix math and `PRINT USING`. *Illustrating BASIC* is one of the few texts that makes more than passing use of these features.
 
